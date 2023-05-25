@@ -1,9 +1,9 @@
 console.log('blblbl');
 
-const rage = 35;
-if (rage >= 20) {
-    console.log("Вы совершеннолетний");
+const sasality = 35;
+if (sasality >= 20) {
+    console.log("sasality");
 } else {
-    console.log('Вы хуесос');
+    console.log('sasality');
 }
 
