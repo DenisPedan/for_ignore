@@ -1,7 +1,7 @@
 console.log('blblbl');
 
-const age = 20;
-if (age >= 18) {
+const rage = 24;
+if (rage >= 18) {
     console.log("Вы совершеннолетний");
 } else {
     console.log('Вы хуесос');
