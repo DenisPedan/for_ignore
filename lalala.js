@@ -1,9 +1,9 @@
 console.log('blblbl');
 
-const sasality = 35;
-if (sasality >= 20) {
-    console.log("sasality");
+const brutality = 35;
+if (brutality >= 18) {
+    console.log("brutality");
 } else {
-    console.log('sasality');
+    console.log('brutality');
 }
 
