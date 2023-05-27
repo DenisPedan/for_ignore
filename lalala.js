@@ -1,9 +1,9 @@
 console.log('blblbl');
 
-const brutality = 100;
+const brutality = 200;
 if (brutality >= 18) {
-    console.log("dsadssd");
+    console.log("200");
 } else {
-    console.log('sd');
+    console.log('200');
 }
 
