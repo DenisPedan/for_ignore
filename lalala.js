@@ -1,9 +1,9 @@
 console.log('blblbl');
 
-const brutality = 200;
+const brutality = 2000;
 if (brutality >= 18) {
-    console.log("mimi");
+    console.log("mimimimimi");
 } else {
-    console.log('mimimi');
+    console.log('mimimmmmmmmmmmi');
 }
 
