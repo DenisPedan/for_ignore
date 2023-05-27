@@ -1,19 +1,19 @@
-console.log('blblbl');
+console.log('blblblsdsdsd');
 
-
-
-
-
-
-
-
-
-
-const brutality = 100;
-gtif (brutality >= 18) {
+const sosality = 100;
+if (sosality >= 18) {
     console.log("master");
 } else {
     console.log('master');
 }
+
+
+
+
+
+
+
+
+
 
 
